@@ -23,13 +23,13 @@ function Footer() {
             </ul>
           </div>
 
-          <div>
+          {/* <div>
             <ul>
               <li>Audio Description</li>
               <li>Investor Relations</li>
               <li>Legal Notice</li>
             </ul>
-          </div>
+          </div> */}
 
           <div>
             <ul>
